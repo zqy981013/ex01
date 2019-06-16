@@ -1,0 +1,23 @@
+POST http://localhost:8080/api/admin//exams/addexam
+token:db970a208cc3f13c0f13cdbabff5fab5adf85a11e475b8b83350376aaf0e6d7caab1bf6c6236b257c4ee7a78ffe92558
+Content-Type: application/json
+设计"
+}
+{
+  "name": "Java封装与
+
+###
+POST http://localhost:8080/api/admin/courses/1/homeworks
+token:db970a208cc3f13c0f13cdbabff5fab5adf85a11e475b8b83350376aaf0e6d7caab1bf6c6236b257c4ee7a78ffe92558
+Content-Type: application/json
+
+{
+  "title": "设计",
+  "content": "设计设计",
+  "course": {
+    "id": 1
+  },
+  "deadLineTime": "2019-04-28 20:20"
+}
+
+###

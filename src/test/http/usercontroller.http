@@ -1,0 +1,8 @@
+GET http://localhost:8080/api/main
+token:db970a208cc3f13c0f13cdbabff5fab5adf85a11e475b8b83350376aaf0e6d7caab1bf6c6236b257c4ee7a78ffe92558
+
+###
+GET http://localhost:8080/api/courses/1/homeworks
+token:db970a208cc3f13c0f13cdbabff5fab5adf85a11e475b8b83350376aaf0e6d7caab1bf6c6236b257c4ee7a78ffe92558
+
+###
